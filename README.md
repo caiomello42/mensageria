@@ -43,4 +43,4 @@ Estou muito feliz em compartilhar a conclusão deste projeto que aborda conceito
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/caiomello42/mensageria.git
